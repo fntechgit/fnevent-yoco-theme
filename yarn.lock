@@ -1986,10 +1986,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@^2.0.64":
-  version "2.0.64"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.64.tgz#eb2e6ceac78083967736d71d0e5f352d50ee32ad"
-  integrity sha512-tThpSSL9b/56P/0xaRi7T+jYlbcDZmXFLfivpE4wYWljJVqim4Y8uld5TvPA3KTeAg8qA1P7fG/ai+cIpj2v3w==
+"@openeventkit/event-site@^2.0.66":
+  version "2.0.66"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.66.tgz#d29482095c46c43a54095c7d1f415e227720757c"
+  integrity sha512-zMzYYALEEiWH+RHybqAWd0nD4vuuV1W6skzRHtZFKHD17jiWFHYq0GOwMoTAG9Vi4Ka0PtEOYL3Fj+Ejt3mMaw==
   dependencies:
     "@mui/base" "^5.0.0-alpha.114"
     "@mux/mux-player-react" "^1.14.1"

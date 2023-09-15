@@ -5,7 +5,7 @@
       "columnAds": [
         {
           "image": {
-            "file": "/img/yoco-sponsor-ads-medium-tilted.png",
+            "src": "yoco-sponsor-ads-medium-tilted.png",
             "alt": "sponsor image"
           },
           "button": {
@@ -15,7 +15,7 @@
         },
         {
           "image": {
-            "file": "/img/yoco-sponsor-ads-large-carbonclean-vert.png",
+            "src": "yoco-sponsor-ads-large-carbonclean-vert.png",
             "alt": "clean carbon"
           },
           "button": {
@@ -26,7 +26,7 @@
         },
         {
           "image": {
-            "file": "/img/ad_subscribe.png",
+            "src": "ad_subscribe.png",
             "alt": "sponsor image"
           },
           "button": {

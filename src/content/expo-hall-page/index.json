@@ -1,1 +1,10 @@
-{}
+{
+  "hero": {
+    "title": "Sponsors",
+    "subTitle": "See the schedule to join live sessions and meet representatives from the sponsor companies.",
+    "background": {
+      "src": "booth-crawl-1.jpg",
+      "alt": "expo hall"
+    }
+  }
+}
