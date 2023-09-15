@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "YOCO Summit",
+    "date": "Live Now!",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "virtual · pacific time",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
@@ -16,19 +16,13 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
-        "src": "tier1-default-header3.png"
+        "src": "flavor_wheel.jpg"
       }
     ]
   },
   "countdown": {
     "display": true,
-    "text": "Event Kickoff"
+    "text": "Yoco starts in"
   },
   "leftColumn": {
     "schedule": {
@@ -36,10 +30,14 @@
       "title": "Full Event Schedule"
     },
     "disqus": {
-      "title": "Join the Conversation"
+      "title": "Join the Conversation",
+      "display": false
     },
     "image": {
-      "title": "Image"
+      "display": false,
+      "title": "Image",
+      "src": "yoco-sponsor-ads-large-wherehol-vert.png",
+      "alt": "big test"
     }
   },
   "masonry": [
@@ -48,10 +46,9 @@
       "size": 2,
       "images": [
         {
-          "src": "tier1-default-space3.png"
-        },
-        {
-          "src": "tier1-default-space4.png"
+          "src": "yoco-sponsor-ads-large-wherehol-vert.png",
+          "link": "",
+          "alt": "test sponsor"
         }
       ]
     },
@@ -60,25 +57,42 @@
       "size": 1,
       "images": [
         {
-          "src": "tier1-default-space1.png"
+          "src": "yoco-sponsor-ads-medium-tilted.png",
+          "link": "",
+          "alt": "test sponsor 2"
         }
       ]
     },
     {
-      "placement": "Bottom Left",
-      "size": 1,
-      "images": [
-        {
-          "src": "tier1-default-space2.png"
-        }
-      ]
-    },
-    {
-      "placement": "Bottom Right",
+      "title": "Mid Left",
       "size": 2,
       "images": [
         {
-          "src": "tier1-default-space4.png"
+          "src": "yoco-sponsor-ads-large-mobility-vert-new.png",
+          "link": "",
+          "alt": " test sponsor 3"
+        }
+      ]
+    },
+    {
+      "title": "Mid Right",
+      "size": 2,
+      "images": [
+        {
+          "src": "yoco-sponsor-ads-large-apex-vert.png",
+          "link": "",
+          "alt": " test sponsor 4"
+        }
+      ]
+    },
+    {
+      "title": "Bottom Right",
+      "size": 1,
+      "images": [
+        {
+          "src": "yoco-sponsor-ads-medium-treva.png",
+          "link": "",
+          "alt": "test sponsor 5"
         }
       ]
     }

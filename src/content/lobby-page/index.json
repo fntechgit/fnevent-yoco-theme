@@ -1,1 +1,16 @@
-{"centerColumn":{"speakers":{"showTodaySpeakers":true,"showFeatureSpeakers":false}},"hero":{"title":"Lobby Hero Title","subTitle":"Lobby Hero Subtitle","background":{"src":"/img/tier1-default-lobby-header1.png","alt":""}}}
+{
+  "centerColumn": {
+    "speakers": {
+      "showTodaySpeakers": true,
+      "showFeatureSpeakers": false
+    }
+  },
+  "hero": {
+    "title": "YOCO Summit.  Live Now!",
+    "subTitle": "virtual · pacific time",
+    "background": {
+      "src": "hero-man-with-headphones.jpg",
+      "alt": "man with headphones"
+    }
+  }
+}

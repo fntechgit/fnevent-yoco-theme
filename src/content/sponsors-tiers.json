@@ -3,9 +3,12 @@
     {
       "id": "tier-cYGYq5-ae",
       "name": "Top-Tier",
-      "badge": "/img/tier1-default-sessionbar-logo.png",
+      "badge": "",
+      "eventTemplate": null,
+      "expoHallSize": "large",
+      "widgetTitle": "Top-Tier Sponsors",
       "lobby": {
-        "lobbyTemplate": "big-images",
+        "lobbyTemplate": "carousel",
         "display": true
       },
       "sponsorPage": {
@@ -17,16 +20,16 @@
           "banner": true
         }
       },
-      "eventTemplate": "",
       "expoHallPage": {
-        "expoHallTemplate": "large",
+        "expoHallTemplate": "medium-images",
         "display": true
       }
     },
     {
       "id": "tier-DHcI3dWGk",
-      "name": "Mid-Tier",
-      "badge": "/img/tier1-default-sessionbar-logo.png",
+      "name": "Middle-Tier Sponsors",
+      "widgetTitle": "Middle-Tier Sponsors",
+      "badge": "",
       "lobby": {
         "lobbyTemplate": "small-images",
         "display": true
@@ -41,15 +44,13 @@
         }
       },
       "eventTemplate": "",
-      "expoHallPage": {
-        "expoHallTemplate": "medium",
-        "display": true
-      }
+      "expoHallSize": "medium"
     },
     {
       "id": "tier-U_wEwGX8a",
-      "name": "Lower-Tier",
-      "badge": "/img/tier1-default-sessionbar-logo.png",
+      "name": "Lower-Tier Sponsors",
+      "widgetTitle": "Lower-Tier Sponsors",
+      "badge": "",
       "lobby": {
         "lobbyTemplate": "small-images",
         "display": true
@@ -64,18 +65,15 @@
         }
       },
       "eventTemplate": "",
-      "expoHallPage": {
-        "expoHallTemplate": "small",
-        "display": true
-      }
+      "expoHallSize": "small"
     }
   ],
   "imageHeader": {
-    "file": "/img/tier1-default-sponsor-headerimage-expopage.png",
+    "file": "/img/booth-crawl-1_adjusted-mobile.png",
     "alt": "header"
   },
   "lobbyButton": {
-    "text": "Visit the Expo Hall",
+    "text": "View all",
     "link": "/a/sponsors/"
   }
 }

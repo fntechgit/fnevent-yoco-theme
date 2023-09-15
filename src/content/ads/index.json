@@ -5,51 +5,35 @@
       "columnAds": [
         {
           "image": {
-            "src": "tier1-default-lobby-space1.png"
+            "file": "/img/yoco-sponsor-ads-medium-tilted.png",
+            "alt": "sponsor image"
           },
-          "column": "left",
           "button": {
-            "link": "/link-to-url-of-your-choice"
-          }
+            "link": "/virtual-booth/"
+          },
+          "column": "left"
         },
         {
           "image": {
-            "src": "tier1-default-lobby-button.png"
-          },
-          "column": "left",
-          "button": {
-            "link": "/link-to-url-of-your-choice"
-          }
-        },
-        {
-          "image": {
-            "src": "tier1-default-lobby-button.png"
+            "file": "/img/yoco-sponsor-ads-large-carbonclean-vert.png",
+            "alt": "clean carbon"
           },
           "button": {
-            "link": "/link-to-url-of-your-choice"
+            "text": "",
+            "link": "/virtual-booth/"
           },
           "column": "right"
         },
         {
           "image": {
-            "src": "tier1-default-lobby-space1.png"
+            "file": "/img/ad_subscribe.png",
+            "alt": "sponsor image"
           },
           "button": {
             "text": "",
-            "link": "/link-to-url-of-your-choice"
+            "link": "/virtual-booth/"
           },
-          "column": "right",
-          "id": null
-        },
-        {
-          "image": {
-            "src": "tier1-default-lobby-space2.png"
-          },
-          "button": {
-            "link": "/link-to-url-of-your-choice"
-          },
-          "column": "right",
-          "id": null
+          "column": "right"
         }
       ]
     }
