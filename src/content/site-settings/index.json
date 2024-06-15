@@ -1,4 +1,10 @@
 {
+  "siteMetadata": {
+    "title": "YOCO Virtual Summit"
+  },
+  "favicon": {
+    "asset": "favicon.png"
+  },
   "widgets": {
     "chat": {
       "showQA": true,
@@ -39,11 +45,9 @@
       "providerLogoSize": 20
     }
   ],
-  "lastBuild": 1716574773262,
-  "siteMetadata": {
-    "title": "YOCO Virtual Summit"
-  },
-  "favicon": {
-    "asset": "favicon.png"
+  "maintenanceMode": {
+    "enabled": false,
+    "title": "Site under maintenance",
+    "subtitle": "Please reload page shortly"
   }
 }
