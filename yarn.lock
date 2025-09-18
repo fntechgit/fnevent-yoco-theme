@@ -2597,10 +2597,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.23":
-  version "2.1.23"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.23.tgz#374896dc24651e9d04914b323d58b3d3efa6b462"
-  integrity sha512-WONuXvbDUGiWe3Y79SrgZK/7uLQWs5/YMj2bVpz6LzPnp/Cyzd+WPF17sRAU/UMrTYFbQHZMfI/85zG6k7GdEQ==
+"@openeventkit/event-site@2.1.24":
+  version "2.1.24"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.24.tgz#ef0842bbe4f952d8a58cfb526590f0219bbda05c"
+  integrity sha512-hwF0gKenxTTlBMrFDC2pT/ID94r4I7K2Gru9UOdyYl7B1BeAj7AgJdCGdqx6BXDpwgo9MI8Gl6yprD1aFO3zEA==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2653,7 +2653,7 @@
     font-awesome "^4.7.0"
     formik "^2.4.6"
     fs-extra "^11.3.0"
-    full-schedule-widget "3.1.1-beta.2"
+    full-schedule-widget "3.1.1"
     gatsby "^5.13.5"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-decap-cms "^4.0.4"
@@ -2723,7 +2723,7 @@
     rehype-mdx-import-media "^1.2.0"
     remark-gfm "^4.0.1"
     sass "^1.49.9"
-    schedule-filter-widget "3.0.5"
+    schedule-filter-widget "3.0.6"
     simple-chat-widget "^1.0.31"
     simple-oauth2 "^4.1.0"
     slick-carousel "^1.8.1"
@@ -9412,10 +9412,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@3.1.1-beta.2:
-  version "3.1.1-beta.2"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.1.1-beta.2.tgz#67a02bb2a3fb73f2a7cab48004f9e4617b49338d"
-  integrity sha512-GOsf1f+daVf82R1XNJSRgg8AlARdQ+Ou/RccTi/4T5HpmBqN/TnGemCI02pMlaSHPej51+pY+qzHAPwPbord6A==
+full-schedule-widget@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.1.1.tgz#de890ccdaeac47739e13a4626e7945a68a1db0a2"
+  integrity sha512-DJ0bN030KCb3voEHWc8gzb3SwWZGg9xqGLgvDqN7+WC8Tc0a7Ao5q+zCTKI1QsvB+uyCe/UAY2Yaf+Lxegt/3Q==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
@@ -18071,10 +18071,10 @@ saxes@^6.0.0:
   dependencies:
     xmlchars "^2.2.0"
 
-schedule-filter-widget@3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.5.tgz#40f3959cee2cdb0abc72237c613708d9e1671118"
-  integrity sha512-c73DlrZYM6CGEvvxzKzwtpqS2TsejSAwfJgdrq1Gh7hTms1tAWOb3yBxhDk6gA5UiKsDzq8aVWdnMi25ot3XUw==
+schedule-filter-widget@3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.6.tgz#08cf752e529f0dda32291e9df68468fe46788098"
+  integrity sha512-8RTb9zV+P5wa2o7812flkH4etho2L8PnRKwjONe1NTl8LVDlWkV/Hb8YyfK6HdLaYky77uOKuphQ90V0sa48hw==
   dependencies:
     crypto-js "^4.1.1"
     react-spring "^9.1.2"
