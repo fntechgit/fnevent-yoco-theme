@@ -2504,10 +2504,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.49":
-  version "2.1.49"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.49.tgz#5c9eeaf09a15dc9f0aac7345a3ed8d285a2c676c"
-  integrity sha512-y4XqTZE8n7PImLSi//6At688PM6tozGpgrMYnhnMEYbMAdlbEk7yNG5cGhBD4ZXbRzL47sZZAAGSwR+vBDUDyg==
+"@openeventkit/event-site@2.1.50":
+  version "2.1.50"
+  resolved "https://registry.npmjs.org/@openeventkit/event-site/-/event-site-2.1.50.tgz#d9c8bea840bde30080f6c785131e0541337f724f"
+  integrity sha512-Q4CoT36EXrUBEBZjqWnjpoPuLVrKjaxSbAw12pFyx8wUyuoi7tMQveiLKNvpR+pGju0WDg6pgSBTkN8rT/FFIA==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2560,7 +2560,7 @@
     font-awesome "^4.7.0"
     formik "^2.4.6"
     fs-extra "^11.3.0"
-    full-schedule-widget "3.1.1"
+    full-schedule-widget "3.1.2-beta.1"
     gatsby "^5.13.5"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-decap-cms "^4.0.4"
@@ -9564,10 +9564,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.1.1.tgz#de890ccdaeac47739e13a4626e7945a68a1db0a2"
-  integrity sha512-DJ0bN030KCb3voEHWc8gzb3SwWZGg9xqGLgvDqN7+WC8Tc0a7Ao5q+zCTKI1QsvB+uyCe/UAY2Yaf+Lxegt/3Q==
+full-schedule-widget@3.1.2-beta.1:
+  version "3.1.2-beta.1"
+  resolved "https://registry.npmjs.org/full-schedule-widget/-/full-schedule-widget-3.1.2-beta.1.tgz#8b5904ac274bee78af32e94f9fc7371a4e799d6b"
+  integrity sha512-6nkORTQUq5jTg2xsuUp5lgZOTyjHNQ1z/9aalHwAVuWM9FUbUkLeQ60TMQFLTJ/2BnBav4/rzx8aTLNxCHdcrQ==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
